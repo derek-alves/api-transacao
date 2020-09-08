@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+# python cache files
+*.pyc
+
+# coverage files
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
